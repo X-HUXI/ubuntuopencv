@@ -1,0 +1,8 @@
+F:\下载\网络通信\TCPUDP编程\myc\myc\bin\Debug\myc.exe.config
+F:\下载\网络通信\TCPUDP编程\myc\myc\bin\Debug\myc.exe
+F:\下载\网络通信\TCPUDP编程\myc\myc\bin\Debug\myc.pdb
+F:\下载\网络通信\TCPUDP编程\myc\myc\obj\Debug\myc.csproj.AssemblyReference.cache
+F:\下载\网络通信\TCPUDP编程\myc\myc\obj\Debug\myc.csproj.SuggestedBindingRedirects.cache
+F:\下载\网络通信\TCPUDP编程\myc\myc\obj\Debug\myc.csproj.CoreCompileInputs.cache
+F:\下载\网络通信\TCPUDP编程\myc\myc\obj\Debug\myc.exe
+F:\下载\网络通信\TCPUDP编程\myc\myc\obj\Debug\myc.pdb
